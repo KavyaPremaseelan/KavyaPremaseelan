@@ -22,5 +22,15 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaPremaseelan&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavyaPremaseelan&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KavyaPremaseelan)
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=KavyaPremaseelan&show_icons=true" alt="GitHub Stats" style="width: 100%; height: 100%;">
+    </td>
+    <td style="width: 50%; border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KavyaPremaseelan" alt="GitHub Streak" style="width: 100%; height: 100%;">
+    </td>
+  </tr>
+</table>
+
 
