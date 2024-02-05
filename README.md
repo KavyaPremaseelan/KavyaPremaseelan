@@ -7,6 +7,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/kavyapremaseelan/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="Instagram" width="30" height="30">](https://www.instagram.com/kavya_premaseelan/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="30" height="30">](https://www.kaggle.com/kavyapremaseelan)
+[<img src="https://simpleicons.org/icons/leetcode.svg" alt="LeetCode" width="30" height="30">](https://leetcode.com/kavyapremaseelan/)
 
 ### Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30">](https://www.cprogramming.com/)
