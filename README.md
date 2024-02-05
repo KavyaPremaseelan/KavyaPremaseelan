@@ -20,7 +20,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30">](https://reactjs.org/)
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaPremaseelan&layout=compact)
+&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaPremaseelan&layout=compact)
 
 <table style="border-collapse: collapse;">
   <tr>
